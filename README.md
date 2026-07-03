@@ -75,8 +75,16 @@ Analysis of 43,148 real-time outdoor air quality readings collected from an IoT 
 | **Linear Regression** | **11.02** | **3.32** | **87.89%** |
 
 ## FB Prophet Forecast Results
+- images/FB_Prophet results.jpeg 
 
-images/FB_Prophet results.png
+## ARIMA/SARIMA Forecast Results
+- images/ARIMA_SARIMA results.png
+
+## Linear_Regression_PM10 Forecast Results
+- images/Linear_Regression_PM10.png
+
+## Linear_Regression_PM2.5 Forecast Results
+- images/Linear_Regression_PM2.5.png
 
 ## Tech Stack
 - Python · Pandas · NumPy · Scikit-learn · FB Prophet ·ARIMA/SARIMA (statsmodels) · Matplotlib · Raspberry Pi 4 ·PMS5003 sensor · DHT11 sensor · MQTT
