@@ -74,7 +74,9 @@ Analysis of 43,148 real-time outdoor air quality readings collected from an IoT 
 | ARIMA/SARIMA | ~21.2 | ~4.6 | ~81% |
 | **Linear Regression** | **11.02** | **3.32** | **87.89%** |
 
-Typical prediction error: 1–3 µg/m³ — within sensor measurement uncertainty of ±10 µg/m³.
+## FB Prophet Forecast Results
+
+images/FB_Prophet results.png
 
 ## Tech Stack
 - Python · Pandas · NumPy · Scikit-learn · FB Prophet ·ARIMA/SARIMA (statsmodels) · Matplotlib · Raspberry Pi 4 ·PMS5003 sensor · DHT11 sensor · MQTT
